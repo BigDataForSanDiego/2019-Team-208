@@ -1,15 +1,15 @@
 ### 2019 BIG DATA HACKATHON PROPOSAL FORM
 
-#### Team Number: `YOUR TEAM NUMBER HERE`  
+#### Team Number: `208`  
 
-#### Team Name: `YOUR TEAM NAME HERE`    
+#### Team Name: `SDSU AI CLUB`    
   
 #### Your team’s hackathon idea in TWO sentences:
-##### `YOUR TWO SENTENCES HERE`
-##### `YOUR TWO SENTENCES HERE`  
+##### `Create a dashboarding tool for City Planners to more effectively perform their job roles without outside consultants.`
+##### `This tool will be available to the public and give clean visuals to help community understanding and democratize city planning.`  
   
 #### Dataset(s) your team might use for the project (Provide name and URL):
-- ##### `YOUR DATASETS HERE`
+- ##### `Smart Locations Dataset from EPA`
 - ##### `YOUR DATASETS  HERE`
 
 #### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
@@ -17,12 +17,12 @@
 #### Team Members
 | ## |        Name         | Active SDSU student? | Female active SDSU student? | Active SDSU veteran? | 14th grade (college 2nd year) or younger? |
 | -- | :------------------ |        :---:         |            :---:            |        :---:         |                  :---:                    |
-| 01 | Test Name           |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 02 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 03 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 04 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 05 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 06 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 01 | Nguyen Tran         |         [X]          |             [x]             |         [ ]          |                   [ ]                     |
+| 02 |        Todd Marcus  |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 03 |   Dwayne Wilkes     |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 04 | Donglin Lao         |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 05 | Mark Mowery         |         [X]          |             [ ]             |         [X]          |                   [ ]                     |
+| 06 |     Nicole Miller   |         [x]          |             [x]             |         [x]          |                   [ ]                     |
 | 07 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 08 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 09 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
@@ -31,9 +31,9 @@
 #### A question your team is answering (check a box OR provide a question your team created)
 
 **Smart City**
-- [x] How can San Diegans have better options for parking in high-traffic areas to void congestion?
-- [x] How can we get an emergency vehicle to the scene in shortest possible time can save lives?
-- [ ] Your question:
+- [ ] How can San Diegans have better options for parking in high-traffic areas to void congestion?
+- [ ] How can we get an emergency vehicle to the scene in shortest possible time can save lives?
+- [x] Your question: How best can city planners choose how to plan 
 
 **Smart Environment**
 - [ ] How can San Diegans have access to better air quality indoors and outdoors?
