@@ -10,9 +10,8 @@
   
 #### Dataset(s) your team might use for the project (Provide name and URL):
 - ##### `Smart Locations Dataset from EPA`
-- ##### `YOUR DATASETS  HERE`
 
-#### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
+#### Team Coordinator GitHub Username: `nguyentransd`
 
 #### Team Members
 | ## |        Name         | Active SDSU student? | Female active SDSU student? | Active SDSU veteran? | 14th grade (college 2nd year) or younger? |
